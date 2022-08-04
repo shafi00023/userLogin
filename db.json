@@ -1,5 +1,22 @@
-{
+[
+  {
     "id": 1,
-    "username": "shafi0023",
-    "password": "Shafi739180"
-}
+    "name": "Small Box",
+    "size": "100 * 100  * 100 cm"
+  },
+  {
+    "id": 2,
+    "name": "Medium Box",
+    "size": "200 * 200 * 200 cm"
+  },
+  {
+    "id": 3,
+    "name": "Large Box",
+    "size": "300 * 300 * 300 cm"
+  },
+  {
+    "id": 4,
+    "name": "Extra Large Box",
+    "size": "400 * 400 * 400 cm"
+  }
+]

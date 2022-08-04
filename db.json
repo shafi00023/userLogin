@@ -1,7 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "username": "shafi0023", "password": "shafi62552" },
-    
+  "data": [
+    { "id": 1, "username": "username", "passowrd": "Pass },
+    { "id": 2, "username": "username", "passowrd": "Pass }
+  ],
+  "user": [
+    { "id": 1, "username": "username", "passowrd": "Pass },
+    { "id": 2, "username": "username", "passowrd": "Pass }
   ]
-  
 }
